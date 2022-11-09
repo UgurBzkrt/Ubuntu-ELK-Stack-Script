@@ -1,4 +1,3 @@
-### Script originally based on https://gist.github.com/kydouglas/1f68d69e856fd6d7dc223f8e1f5ae3b3
 ```
 #!/bin/bash
 
