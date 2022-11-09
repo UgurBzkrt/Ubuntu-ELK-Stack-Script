@@ -1,4 +1,5 @@
 ### Script originally based on https://gist.github.com/kydouglas/1f68d69e856fd6d7dc223f8e1f5ae3b3
+```
 #!/bin/bash
 
 #ONE LINE
@@ -168,3 +169,4 @@ if [ "$(grep -Ei 'debian|buntu|mint' /etc/*release)" ]
 else
     echo "This script doesn't support ELK installation on this OS."
 fi
+```
